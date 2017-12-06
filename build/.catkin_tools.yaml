@@ -1,0 +1,6 @@
+devel_space: /home/sumeet/bebop_ws/devel
+install: false
+install_space: /home/sumeet/bebop_ws/install
+profile: default
+source_space: /home/sumeet/bebop_ws/src
+workspace: /home/sumeet/bebop_ws
